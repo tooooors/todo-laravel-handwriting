@@ -1,2 +1,4 @@
 # Docker 環境変数（DB パスワードを含む）
 .env.docker
+# テスト用DB
+todo_db
